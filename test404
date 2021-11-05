@@ -1,25 +1,11 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
     <style>
-
         h1 { color: red; }
-
-        p { color: green; }
-
     </style>
-
 </head>
-
 <body>
-
-    <h1>Trang web đầu tiên của Tú</h1>
-
-    <p>Học về web browser</p>
-
+    <h1>Trang web test</h1>
 </body>
-
 </html>
